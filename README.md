@@ -52,6 +52,8 @@ This project supports standard HD44780-compatible LCD modules including:
 
 /Drawings
     Display Cutout and Mounting Holes – Setup Sheet.pdf
+    RTA-900.pdf
+    RTA-900.step
 
 /Images
     Display Cutout and Mounting Holes – CNC Setup and Machining.mp4
